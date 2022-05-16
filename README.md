@@ -13,7 +13,7 @@
 男女比
 
 |男子|女子|
-|:---|:---:|---:|
+|:---|:---:|
 |91.9％| 8.1％|
 
 > [拓殖大学](http://www.takushoku-u.ac.jp "Takushoku University")
